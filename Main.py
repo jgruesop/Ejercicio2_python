@@ -6,4 +6,4 @@ for numero in range(numero_inicial,numero_final):
     if numero % 2 == 1:
         lista.append(numero)
 
-print(lista)
+print(lista) #[3,5,7]
